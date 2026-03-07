@@ -28,3 +28,7 @@ else:
 print(f"You are {age} years old")
 print(f"You are buying {quantity} items")
 print(f"Your class has {num_of_students} students")
+
+#Results
+The results should look like this.
+
