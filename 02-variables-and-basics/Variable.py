@@ -2,9 +2,9 @@
 # A variable behaves as if it was the value it contains
 
 # Strings are letters
-first_name = "Dude"
+first_name = "Name"
 food = "pizza"
-email= "dude123@fake.com"
+email= "person123@fake.com"
 
 #Integers are numbers
 age = 25
@@ -24,6 +24,7 @@ if is_student:
 	print("You are a student")
 else:
 	print("You are NOT a student")
+#This code should display your age,quantity and num of students with the values you've entered
 
 print(f"You are {age} years old")
 print(f"You are buying {quantity} items")
