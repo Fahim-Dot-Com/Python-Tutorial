@@ -1,8 +1,10 @@
 #We'll start with Arithmatic operators in Python here via showing how many ffriends you have.
+
 #Remember * = Multiply
 #         / = Divide
 #         - = Subtract
 #         + = Addition
+#         % Is the remainder operator
 
 friends = 5
 
@@ -13,6 +15,11 @@ friends = 5
 # friends = friends * 3
 # friends *= 3
 # friends = friends / 2
-friends /= 2
+# friends /= 2
+# friends = friends
+# friends **= 2
+remainder = friends % 3
 
 print(friends)
+
+# Try these Yourself!
