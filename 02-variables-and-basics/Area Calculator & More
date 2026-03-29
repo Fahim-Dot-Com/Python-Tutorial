@@ -8,3 +8,15 @@ volume = length * width * height
 
 print(f"The volume is: {volume}cm^3")
 
+#Heres a shopping total calculator to demostrate your undestanding
+
+item = input("What item would you like to buy ?: ")
+price = float(input("What is the price ?: "))
+quantity = int(input("How many would you like ?: "))
+
+total = price * quantity
+
+print(f"You have bought {quantity} x {item}/s")
+print(f"Your total is: ${round(total, 2)}")   
+
+#You may not need to add the round funtion as it shows the total to a certain decimal point
