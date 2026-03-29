@@ -1,0 +1,18 @@
+#We'll start with Arithmatic operators in Python here via showing how many ffriends you have.
+#Remember * = Multiply
+#         / = Divide
+#         - = Subtract
+#         + = Addition
+
+friends = 5
+
+# friends = friends + 1
+# friends += 1
+# friends = friends - 2
+# friends -= 2
+# friends = friends * 3
+# friends *= 3
+# friends = friends / 2
+friends /= 2
+
+print(friends)
