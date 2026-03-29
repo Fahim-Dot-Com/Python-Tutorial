@@ -14,5 +14,16 @@ result = min(x, y, z) # This funtion is for finding the minimum value of the res
 
 print(result)
 
-#In this section you'll be importing the python moth module
+#In this section you'll be importing the python math module to conduct math eqautions
 
+import math
+
+x = 9.9
+
+# print(math.pi) #This value is PI
+# print(math.e) # This is Eular's number and is for more advanced operations
+# result = math.sqrt(x) This is for Square Rooting
+# result = math.ceil(x) This is for Rounding Up
+result = math. floor(x) This is for Rounding Down
+
+print(result)
