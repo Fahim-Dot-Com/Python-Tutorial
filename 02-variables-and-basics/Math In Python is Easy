@@ -1,0 +1,18 @@
+#This part will contain the necessary examples in order for you to perform mathmatics in python!
+
+#In this section you'll use these built in functions 
+
+x = 3.14
+y = 4
+Z= 5
+
+# result = round(x) # This funtion is for Rounding
+# result = abs(y)  # This funtion is for Finding the Absolute value of your result
+# result = pow(4, 3) # This is for calculating the power of the 
+# result = max(x, y, z) # This funtion is for finding the maximum value of the result
+result = min(x, y, z) # This funtion is for finding the minimum value of the result
+
+print(result)
+
+#In this section you'll be importing the python moth module
+
