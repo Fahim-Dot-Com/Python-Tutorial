@@ -1,4 +1,6 @@
 # Python Tutorial Repo 🐍
+<img width="518" height="153" alt="image" src="https://github.com/user-attachments/assets/f6926567-7376-4f63-add8-effe1a2d4f3f" />
+
 
 Welcome! This repo is a beginner-friendly collection of Python lessons, examples, and small projects.
 
