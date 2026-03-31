@@ -1,4 +1,4 @@
-#In this section we'll learn to use IF,ELSE and ELIF\
+#In this section we'll learn to use IF,ELSE,ELIF and Boolean
 
 # Here's a simple example of an age check
 
@@ -28,3 +28,12 @@ elif age < 0:
 print("You haven't been born yet!")
 else:
 print("You must be 18+ to sign up")
+
+# Heres an Example of Boolean as the user is trying to get a discount
+
+is_student = True
+
+if is_student:
+    print("You get a student discount!")
+else:
+    print("You do not get a student discount.")
